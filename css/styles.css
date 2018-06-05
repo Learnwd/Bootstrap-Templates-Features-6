@@ -1,0 +1,48 @@
+.features-block-6 {
+	background: #e0f4ee;
+	padding: 80px 0;
+	font-family: "Nunito", sans-serif;
+}
+
+.features-block-6 h1 {
+	font-size: 2.625rem;
+	margin-bottom: 25px;
+}
+
+.features-block-6 p {
+	font-size: 1.275rem;
+	color: #141414;
+	margin-bottom: 35px;
+}
+
+.features-block-6 .btn {
+	padding: 9px 26px;
+	background: #ff0000;
+	border: 1px solid #ff0000;
+	color: #ffffff;
+	margin-bottom: 12px;
+}
+
+.features-block-6 .btn:hover {
+	background: #0062cc;
+	border: 1px solid #0062cc;
+}
+
+.features-block-6 .btn-2 {
+	background: transparent;
+	color: #0062cc;
+	border: 1px solid #0062cc;
+	font-weight: 600;
+}
+
+.features-block-6 .btn-2:hover {
+	color: #ffffff;
+}
+
+@media (min-width: 992px) {
+	.features-block-6 p {
+		width: 75%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
